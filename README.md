@@ -46,8 +46,6 @@ I’m always exploring new ideas, refining my skills, and striving to bring simp
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" width="50" /></a>  
 </div>  
 
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
