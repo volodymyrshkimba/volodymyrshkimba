@@ -17,33 +17,14 @@ I'm a full-stack developer with a passion for creating useful and meaningful dig
 I enjoy crafting adaptive interfaces and designing systems that feel intuitive yet powerful. My approach combines attention to detail with a deep understanding of both front-end and back-end principles, allowing me to build solutions that are not only functional but also meaningful.
 
 I’m always exploring new ideas, refining my skills, and striving to bring simplicity to complexity — whether it's through clean code, smart architecture, or an improved user experience.  
-  
-
-<br/>  
-
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 💼 Open to new opportunities (remote, freelance, or full-time)  
-  
-
-- 🧠 Exploring backend architecture & system design  
-  
-
-- 🚀 Building pet projects to grow as a full-stack developer  
-  
-
-- 🔧 Constantly improving my workflow and problem-solving skills  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<ul style="list-style: none; padding: 0; margin: 0; display: flex; gap: 30px; flex-wrap: wrap;">
+  <li>💼 Open to new opportunities (remote, freelance, or full-time)</li>
+  <li>🧠 Exploring backend architecture & system design</li>
+  <li>🚀 Building pet projects to grow as a full-stack developer</li>
+  <li>🔧 Constantly improving my workflow and problem-solving skills</li>
+</ul>
 
 
 ## Languages and Tools  
@@ -79,18 +60,4 @@ I’m always exploring new ideas, refining my skills, and striving to bring simp
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
