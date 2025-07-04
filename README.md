@@ -8,9 +8,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I'm a full-stack developer with a passion for creating useful and meaningful digital products. 
 
