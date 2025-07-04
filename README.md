@@ -55,4 +55,4 @@ I’m always exploring new ideas, refining my skills, and striving to bring simp
 
 </td></tr></table>  
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
